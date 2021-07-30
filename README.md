@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=songagreen)](https://solved.ac/songagreen)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=superyodi&count_private=true&show_icons=true&theme=vue&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
